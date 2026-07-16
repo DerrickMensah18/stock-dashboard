@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Node (for when frontend fills up)
+node_modules/
+dist/
+build/
+.env.local
+
+# Data
+backend/stocks_data.json
