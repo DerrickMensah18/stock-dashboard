@@ -1,6 +1,6 @@
-# Stock Dashboard
+# Kuku Finance
 
-Kuku is a stoack dashboard which uses FastAPI backend to scrape live stock data from Yahoo Finance.
+Kuku is a stock dashboard which uses FastAPI backend to scrape live stock data from Yahoo Finance.
 React frontend (in progress) displays it.
 
 ## Backend
